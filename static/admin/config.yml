@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: secure-blog-gatsby-netlify-okta  
+  repo: secure-blog-gatsby-netlify-okta
 media_folder: static/assets
 public_folder: assets
   
