@@ -16,7 +16,7 @@
   "dependencies": {
     "@okta/okta-signin-widget": "^3.7.2",
     "core-js": "^2.6.11",
-    "gatsby": "2.23.15",
+    "gatsby": "^2.31.0",
     "gatsby-plugin-netlify-cms": "^4.1.40",
     "gatsby-source-filesystem": "^2.3.18",
     "gatsby-transformer-remark": "^2.8.23",
